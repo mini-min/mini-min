@@ -14,8 +14,7 @@ Rather than "relaxing" reality, they are constantly "challenging" new things and
 - Department of Physical Education(20)
 - Department of Software Convergence(21): Data Science Track
 
-[![Mini-min's github stats](https://github-readme-stats.vercel.app/api?username=mini-min&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-min&layout=compact&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+[![Mini-min's github stats](https://github-readme-stats.vercel.app/api?username=mini-min&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-min&layout=compact&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
 ## I Study ing..💻
 Project using the following languages :
